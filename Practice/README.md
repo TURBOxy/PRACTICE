@@ -4,4 +4,4 @@
   
   MAKE GIT REPO- git init
 
-  
+ COMMIT AND ADD- git commit -am
